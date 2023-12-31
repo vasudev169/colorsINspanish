@@ -1,0 +1,41 @@
+p{
+    font-size: larger;
+}
+li[value="1"]{
+    color: blueviolet;
+}
+li[value="2"]{
+    color: indigo;
+    
+}
+li[value="3"]{
+    color: blue;
+}
+li[value="4"]{
+    color: green;
+}
+li[value="5"]{
+    color: yellow;
+}
+li[value="6"]{
+    color: orange;
+}
+li[value="7"]{
+    color: rgba(246, 6, 6, 0.827);
+}
+img[value="0"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+  img{
+    border-radius: 50%;
+  }
+  li{
+    font-size: larger;
+  }
+ body{
+  
+    background-image: url(./assets/background1.jpeg);
+  }
